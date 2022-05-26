@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "findmyadventure-ex",
+    "adventure": "findmyadventure-ex",
+    "dicky": "dicky-portfolio"
+  },
+  "targets": {}
+}
